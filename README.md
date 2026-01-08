@@ -16,6 +16,7 @@ Always eager to learn and improve.
 - React, TypeScript/JavaScript, Tailwind CSS
 - Figma, Git/GitHub
 
+---
 
 <!--
 **tyl03/tyl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
